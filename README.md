@@ -2,7 +2,7 @@
 
 A Smart Expense Tracker web application built using **Python, Streamlit, SQLite, Pandas, and Plotly** to manage daily expenses efficiently. Users can add expenses, categorize spending, track total expenditure, and visualize expense distribution through charts.
 
-## 🚀 Features
+##  Features
 
 - Add and manage daily expenses
 - Categorize expenses (Food, Transport, Shopping, Education, etc.)
@@ -11,7 +11,7 @@ A Smart Expense Tracker web application built using **Python, Streamlit, SQLite,
 - Interactive expense visualization using pie charts
 - Simple and user-friendly web interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** Streamlit
 - **Backend:** Python
@@ -19,7 +19,7 @@ A Smart Expense Tracker web application built using **Python, Streamlit, SQLite,
 - **Data Handling:** Pandas
 - **Visualization:** Plotly
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 
