@@ -1,0 +1,4 @@
+#the Requirements for the project
+streamlit
+pandas
+plotly
